@@ -72,29 +72,3 @@
 |[第05期：手把手教你逆向分析Android程序](dialy_news/2016/05/第05期：手把手教你逆向分析Android程序.md) |
 |[第04期：那些年我们用过的显示性能指标](dialy_news/2016/05/第04期：那些年我们用过的显示性能指标.md) |
 
-## 往期内容
-
-如果你想查看往期内容，[请戳这里](dialy_news/)
-
-## 官方微博
-
-- [优雅的程序员D](http://weibo.com/u/5891258264?topnav=1&wvr=6&topsug=1&is_all=1)
-
-## 管理员微博
-
-- [D_clock爱吃葱花](http://weibo.com/2480694892/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
-- [YasicYu](http://weibo.com/3917305697/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
-
-## 邮箱订阅
-
-目前有 **12K+** 小伙伴订阅了日报，想要订阅我们么，[猛戳这里](http://list.qq.com/cgi-bin/qf_invite?id=d469993d2c888e971c0fbb2309c4d84256968386b126b967)
-
-## 微信公众号
-
-**优雅的程序员**微信号：diycodes，目前关注人数 700+ 人；
-
-![](http://diycode.b0.upaiyun.com/photo/2016/f031fc25263f7294711038efa72ae579.jpg)
-
-## 更多
-
-更多优质内容，欢迎来到 [diycode](http://diycode.cc/) 我们一起参与讨论。
