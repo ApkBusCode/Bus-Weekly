@@ -1,74 +1,93 @@
-# Diycode每日精选
+# 安卓巴士每周精选
 
-每天读到一些不错的技术文章，随手点评收录，分享给大家！想知道更多关于每日精选的信息，请查看我们的[wiki](https://github.com/DiyCodes/code_news/wiki)
+![图片描述](/data/attachment/album/201612/01/171538nrmmo55q8ehojekc.png)
+欢迎关注安卓巴士，谢谢您对安卓巴士的支持，APKBUS是全国最大的安卓程序员社区，一家致力服务于中国移动开发者学习与成长需要的综合社区服务平台。Android行业精彩内容每日推送，为您奉上最新，最热的Android资讯，也欢迎大家投稿与交流！
 
-## 归档
+[安卓巴士官网](http://www.akpbus.com)
 
-|	精选文章	|
-|------|
-|[第68期：一起聊聊Android 开发工具那些事](dialy_news/2016/08/第68期：一起聊聊Android 开发工具那些事.md) 	|
-|[第67期：App 程序员泡沫-那些冲着高薪去培训做技术的同学，你们可以转行了](dialy_news/2016/08/第67期：App 程序员泡沫-那些冲着高薪去培训做技术的同学，你们可以转行了.md) 	|
-|[第66期：Android自定义View系列教程](dialy_news/2016/08/第66期：Android自定义View系列教程.md) 	|
-|[第65期：QQ空间终端开发团队：RxJava && Agera从源码简要分析基本调用流程](dialy_news/2016/08/第65期：QQ空间终端开发团队：RxJava && Agera从源码简要分析基本调用流程.md) 	|
-|[第64期：IndieHackers：学学如何成为一个独立 App 开发者并且赚到钱](dialy_news/2016/08/第64期：IndieHackers：学学如何成为一个独立 App 开发者并且赚到钱.md) 	|
-|[第63期：Android 目前是 mvc，mvp，mvvm 哪种模式比较好呢？](dialy_news/2016/08/第63期：Android 目前是 mvc，mvp，mvvm 哪种模式比较好呢？.md) 	|
-|[第62期：大家开发的 Android App 都用了哪些开源类库呢？围观网易云音乐、微博、微信都用了哪些开源框架](dialy_news/2016/08/第62期：大家开发的 Android App 都用了哪些开源类库呢？围观网易云音乐、微博、微信都用了哪些开源框架。.md) 	|
-|[第61期：微信 Tinker 负责人张绍文关于 Android 热修复直播分享记录](dialy_news/2016/08/第61期：微信 Tinker 负责人张绍文关于 Android 热修复直播分享记录.md) 	|
-|[第60期：《编写可读代码的艺术》读书笔记：关于代码审美](dialy_news/2016/08/第60期：《编写可读代码的艺术》读书笔记：关于代码审美.md) 	|
-|[第59期：如何看待《别开发 app 了，做个公众号就可以了》？](dialy_news/2016/08/第59期：如何看待《别开发 app 了，做个公众号就可以了》？.md) 	|
-|[第58期：未来 H5 混合开发会替代 Android 原生吗？](dialy_news/2016/08/第58期：未来 H5 混合开发会替代 Android 原生吗？.md) 	|
-|[第57期：湾区求职分享：三个月努力拿到 Google offer，欢迎踊跃提问](dialy_news/2016/08/第57期：湾区求职分享：三个月努力拿到 Google offer，欢迎踊跃提问.md) 	|
-|[第56期：十年来，编程领域有什么重要进展？](dialy_news/2016/08/第56期：十年来，编程领域有什么重要进展？.md) 	|
-|[第55期：纪念一个技术人历时18个月的初次创业](dialy_news/2016/08/第55期：纪念一个技术人历时18个月的初次创业.md) 	|
-|[第54期：你为什么躲着技术群角落，看别人谈笑风生？](dialy_news/2016/08/第54期：你为什么躲着技术群角落，看别人谈笑风生？.md) 	|
-|[第53期：Android 工具整合，让你的 Android 开发更高效](dialy_news/2016/08/第53期：Android 工具整合，让你的 Android 开发更高效.md) 	|
-|[第52期：你是为何走上 Android 开发这条路？](dialy_news/2016/08/第52期：你是为何走上 Android 开发这条路？.md) 	|
-|[第51期：Android程序架构工具及架构设计模式集合（Google官方版）](dialy_news/2016/07/第51期：Android程序架构工具及架构设计模式集合（Google官方版） .md) 	|
-|[第50期：《Android 开发工程师面试指南 LearningNotes 》](dialy_news/2016/07/第50期：《Android 开发工程师面试指南 LearningNotes 》.md) 	|
-|[第49期：Android开发的同学迷茫的你是不是应该先做好目标规划](dialy_news/2016/07/第49期：Android开发的同学迷茫的你是不是应该先做好目标规划.md) 	|
-|[第48期：HermesEventBus-饿了么开源的Android跨进程事件分发框架](dialy_news/2016/07/第48期：HermesEventBus-饿了么开源的Android跨进程事件分发框架.md) 	|
-|[第47期：作为一个有追求的 Android Developer，你是如何保证你的代码质量的？](dialy_news/2016/07/第47期：作为一个有追求的 Android Developer，你是如何保证你的代码质量的？.md) 	|
-|[第46期：《LeetCode题解》：学习 LeetCode 算法过程的心得](dialy_news/2016/07/第46期：《LeetCode题解》：学习 LeetCode 算法过程的心得.md) 	|
-|[第45期：VirtualApp：一个高二学生开源的App虚拟引擎](dialy_news/2016/07/第45期：VirtualApp：一个高二学生开源的App虚拟引擎.md) 	|
-|[第44期：国内 Top 500 Android 应用都在使用什么开源库？](dialy_news/2016/07/第44期：国内 Top 500 Android 应用都在使用什么开源库？.md) 	|
-|[第43期：一个五年Android开发者百度、阿里、聚美、映客的面试心经](dialy_news/2016/07/第43期：一个五年Android开发者百度、阿里、聚美、映客的面试心经.md) 	|
-|[第42期：如何为你的开源项目选择一个合适的开源协议](dialy_news/2016/07/第42期：如何为你的开源项目选择一个合适的开源协议？.md) 	|
-|[第41期：软件工程师，你的命运不是一头骡子](dialy_news/2016/07/第41期：软件工程师，你的命运不是一头骡子 .md) 	|
-|[第40期：那些值得你试试的 Android 竞品分析工具](dialy_news/2016/07/第40期：那些值得你试试的 Android 竞品分析工具.md) 	|
-|[第39期：如何能进入腾讯阿里 360 这样的大公司从事 Android 开发，需要达到什么水平？](dialy_news/2016/07/第39期：如何能进入腾讯阿里 360 这样的大公司从事 Android 开发，需要达到什么水平？.md) 	|
-|[第38期：微信朋友圈的缓存机制是怎样的？](dialy_news/2016/07/第38期：微信朋友圈的缓存机制是怎样的？.md) 	|
-|[第37期：自由软件开发者的十点注意事项](dialy_news/2016/06/第37期：自由软件开发者的十点注意事项.md) 	|
-|[第36期：美国国家航空航天局NASA开源253个NASA 软件项目](dialy_news/2016/06/第36期：美国国家航空航天局NASA开源253个NASA 软件项目.md) 	|
-|[第35期：API接口规范完整版本](dialy_news/2016/06/第35期：API接口规范完整版本.md) 	|
-|[第34期：Android热修复技术专题：来自微信、淘宝、支付宝、QQ空间的热修复方案](dialy_news/2016/06/第34期：Android热修复技术专题：来自微信、淘宝、支付宝、QQ空间的热修复方案.md) 	|
-|[第33期：Google 推出了首个针对无基础初学者的Android 开发微课程](dialy_news/2016/06/第33期：Google 推出了首个针对无基础初学者的Android 开发微课程.md) 	|
-|[第32期：Android版QQ空间App直播秒开优化实践](dialy_news/2016/06/第32期：Android版QQ空间App直播秒开优化实践.md) 	|
-|[第31期：如何提升你的能力？给年轻程序员的几条建议](dialy_news/2016/06/第31期：如何提升你的能力？给年轻程序员的几条建议.md) 	|
-|[第30期：一款产品的从 0 到 1 之旅](dialy_news/2016/06/第30期：一款产品的从 0 到 1 之旅.md) 	|
-|[第29期：Android 插件化开发专题](dialy_news/2016/06/第29期：Android 插件化开发专题.md) 	|
-|[第28期：关于Native App动态化的问题](dialy_news/2016/06/第28期：关于Native App动态化的问题.md) 	|
-|[第27期：如何看待李笑来说的 “一年可以成长为全栈工程师” 观点？](dialy_news/2016/06/第27期：如何看待李笑来说的 “一年可以成长为全栈工程师” 观点？.md) 	|
-|[第26期：一种动态为apk写入信息的方案](dialy_news/2016/06/第26期：一种动态为apk写入信息的方案.md) 	|
-|[第25期：如何成为一名优秀的程序员](dialy_news/2016/06/第25期：如何成为一名优秀的程序员.md) 	|
-|[第24期：试着写一个自己的OS，想想都觉得好玩](dialy_news/2016/06/第24期：试着写一个自己的OS，想想都觉得好玩.md) 	|
-|[第23期：一起分享与发现新技术](dialy_news/2016/06/第23期：一起分享与发现新技术.md) 	|
-|[第22期：一个老鸟发的公司内部整理的 Android 学习路线图](dialy_news/2016/06/第22期：一个老鸟发的公司内部整理的 Android 学习路线图.md) 	|
-|[第21期：如何评价互联网公司监控员工日常上网的行为？](dialy_news/2016/06/第21期：如何评价互联网公司监控员工日常上网的行为？.md) 	|
-|[第20期：一款开源的纯 Java 写的 Android RTMP 推流客户端](dialy_news/2016/06/第20期：一款开源的纯 Java 写的 Android RTMP 推流客户端.md) 	|
-|[第19期：如何得到 Google 的工作机会？](dialy_news/2016/06/第19期：如何得到 Google 的工作机会？.md) 	|
-|[第18期：android多主题之坑](dialy_news/2016/06/第18期：android多主题之坑.md) 	|
-|[第17期：App 发外包注意事项有哪些？](dialy_news/2016/06/第17期：App 发外包注意事项有哪些？.md) 	|
-|[第16期：Android JNI原理分析](dialy_news/2016/05/第16期：Android JNI原理分析.md) 	|
-|[第15期：英语流利说 Android 架构演进](dialy_news/2016/05/第15期：英语流利说 Android 架构演进.md) 	|
-|[第14期：维护一个大型开源项目是怎样的体验？](dialy_news/2016/05/第14期：维护一个大型开源项目是怎样的体验？.md) 	|
-|[第13期：设计一套 IM 通讯的系统 (服务器 +Android 客户端)，需要考虑哪些问题](dialy_news/2016/05/第13期：设计一套 IM 通讯的系统包括服务器和Android客户端，需要考虑哪些问题.md) |
-|[第12期：什么才是程序员不可替代性和核心竞争力](dialy_news/2016/05/第12期：什么才是程序员不可替代性和核心竞争力.md) |
-|[第11期：带你走进Android插件化开发](dialy_news/2016/05/第11期：带你走进Android插件化开发.md) |
-|[第10期：普通程序员和优秀程序员的区别是什么？](dialy_news/2016/05/第10期：普通程序员和优秀程序员的区别是什么？.md) |
-|[第09期：开源代码的寿命为何只有1年？](dialy_news/2016/05/第09期：开源代码的寿命为何只有1年？.md) |
-|[第08期：如何获得个人项目的前1000个受众？](dialy_news/2016/05/第08期：如何获得个人项目的前1000个受众？.md) |
-|[第07期：技术人应该如何看《别错把平台当成你的本事》这个文章？](dialy_news/2016/05/第07期：技术人应该如何看《别错把平台当成你的本事》这个文章？.md) |
-|[第06期：Github上面很多代码分类整理的项目是否真的有用？](dialy_news/2016/05/第06期：Github上面很多代码分类整理的项目是否真的有用？.md) |
-|[第05期：手把手教你逆向分析Android程序](dialy_news/2016/05/第05期：手把手教你逆向分析Android程序.md) |
-|[第04期：那些年我们用过的显示性能指标](dialy_news/2016/05/第04期：那些年我们用过的显示性能指标.md) |
 
+[精品源码](http://www.apkbus.com/forum-417-1.html)
+
+
+合作请联系QQ：435399051
+
+## 【Bus Weekly】汇总
+
+[【Bus Weekly】第29期 每周Android精选推送](http://www.apkbus.com/thread-270836-1-1.html)
+
+[【Bus Weekly】第28期 每周Android精选推送](http://www.apkbus.com/thread-270594-1-1.html)
+
+[【Bus Weekly】第27期 每周Android精选推送](http://www.apkbus.com/thread-270395-1-1.html)
+
+[【Bus Weekly】第26期 每周Android精选推送](http://www.apkbus.com/thread-270265-1-1.html)
+
+[【Bus Weekly】第25期 每周Android精选推送](http://www.apkbus.com/thread-270067-1-1.html)
+
+[【Bus Weekly】第24期 每周Android精选推送](http://www.apkbus.com/thread-269526-1-1.html)
+
+[【Bus Weekly】第23期 每周Android精选推送](http://www.apkbus.com/thread-269193-1-1.html)
+
+[【Bus Weekly】第22期 每周Android精选推送](http://www.apkbus.com/forum.php?mod=viewthread&tid=268875&page=1&extra=#pid4243580)
+
+[【Bus Weekly】第21期 每周Android精选推送](http://www.apkbus.com/forum.php?mod=viewthread&tid=268579&page=1&extra=&_dsign=421bcc02)
+
+[【Bus Weekly】第20期 每周Android精选推送](http://www.apkbus.com/forum.php?mod=viewthread&tid=268251&page=1&extra=&_dsign=5a8693f7)
+
+[【Bus Weekly】第19期 每周Android精选推送](http://www.apkbus.com/forum.php?mod=viewthread&tid=268127&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline)
+
+[【Bus Weekly】第18期 每周Android精选推送](http://www.apkbus.com/forum.php?mod=viewthread&tid=267995&extra=page%3D2%26filter%3Dauthor%26orderby%3Ddateline)
+
+[【Bus Weekly】第17期 每周Android精选推送](http://www.apkbus.com/forum.php?mod=viewthread&tid=267777&page=1&extra=&_dsign=0521b9ec)
+
+[【Bus Weekly】第16期 每周Android精选推送](http://www.apkbus.com/thread-267288-1-1.html)
+
+[【Bus Weekly】第15期 每周Android精选推送](http://www.apkbus.com/thread-267288-1-1.html)
+
+[【Bus Weekly】第14期 每周Android精选推送](http://www.apkbus.com/thread-267057-1-1.html)
+
+[【Bus Weekly】第13期 每周Android精选推送](http://www.apkbus.com/thread-266826-1-1.html)
+
+[【Bus Weekly】第12期 每周Android精选推送](http://www.apkbus.com/thread-266651-1-1.html)
+
+[【Bus Weekly】第11期 每周Android精选推送](http://www.apkbus.com/thread-266445-1-1.html)
+
+[【Bus Weekly】第10期 每周Android精选推送](http://www.apkbus.com/thread-266154-1-1.html)
+
+[【Bus Weekly】第9期 每周Android精选推送](http://www.apkbus.com/thread-265483-1-1.html)
+
+[【Bus Weekly】第8期 每周Android精选推送](http://www.apkbus.com/thread-258804-1-1.html)
+
+[【Bus Weekly】第7期 每周Android精选推送](http://www.apkbus.com/thread-258531-1-1.html)
+
+[【Bus Weekly】第6期 每周Android精选推送](http://www.apkbus.com/thread-258245-1-1.html)
+
+[【Bus Weekly】第5期 每周Android精选推送](http://www.apkbus.com/thread-258003-1-1.html)
+
+[【Bus Weekly】第4期 每周Android精选推送](http://www.apkbus.com/thread-257647-1-1.html)
+
+[【Bus Weekly】第3期 每周Android精选推送](http://www.apkbus.com/thread-257256-1-1.html)
+
+[【Bus Weekly】第2期 每周Android精选推送](http://www.apkbus.com/thread-256460-1-1.html)
+
+[【Bus Weekly】第1期 每周Android精选推送](http://www.apkbus.com/thread-256291-1-1.html)
+
+
+[【精华帖】你想要的安卓技术博文这里都有！（待续）](http://www.apkbus.com/forum.php?mod=viewthread&tid=256632&_dsign=08f33db1)
+
+
+## 官方微博
+
+- [安卓巴士社区](http://weibo.com/apkbusbbs/home?topnav=1&wvr=6)
+
+
+## 微信公众号
+
+**安卓巴士Android开发者门户**微信号：anzhuobashi ，定时推送优质文章
+
+![图片描述](/data/attachment/album/201612/01/171335b699609ng06hn0s8.jpg)
+
+## 更多
+
+如果您想要做安卓巴士博客，欢迎骚扰
+如果您想做安卓巴士版主，欢迎骚扰
+如果您想把QQ群放在安卓巴士官网，欢迎骚扰
