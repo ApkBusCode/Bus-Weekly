@@ -1,6 +1,8 @@
 # 安卓巴士每周精选
 
-![图片描述](/data/attachment/album/201612/01/171538nrmmo55q8ehojekc.png)
+![](https://i.niupic.com/images/2016/12/01/xf4qFd.png)
+
+
 欢迎关注安卓巴士，谢谢您对安卓巴士的支持，APKBUS是全国最大的安卓程序员社区，一家致力服务于中国移动开发者学习与成长需要的综合社区服务平台。Android行业精彩内容每日推送，为您奉上最新，最热的Android资讯，也欢迎大家投稿与交流！
 
 [安卓巴士官网](http://www.akpbus.com)
@@ -84,7 +86,10 @@
 
 **安卓巴士Android开发者门户**微信号：anzhuobashi ，定时推送优质文章
 
-![图片描述](/data/attachment/album/201612/01/171335b699609ng06hn0s8.jpg)
+
+![](https://i.niupic.com/images/2016/12/01/DRYCiX.jpg)
+
+
 
 ## 更多
 
